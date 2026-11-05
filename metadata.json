@@ -1,0 +1,6 @@
+{
+  "name": "Orbis",
+  "description": "A digital object fixed beyond time and place. An exploration of distance, form, and silence in space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
